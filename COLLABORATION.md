@@ -115,6 +115,7 @@ From there, we determine:
 
 * if the collaboration is aligned
 * how I can contribute
+* the pricing conditions
 * and the most effective way to structure the work
 
 ---
@@ -123,7 +124,7 @@ From there, we determine:
 
 If you are working on a project that requires structure, clarity and system-level thinking:
 
-* Website: https://mywebatelier.online
+* Website: https://lucacaristina.online
 * LinkedIn: https://www.linkedin.com/in/luca-caristina
 * Email: [luca.caristina@gmail.com](mailto:luca.caristina@gmail.com)
 
