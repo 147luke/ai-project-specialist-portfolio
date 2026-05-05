@@ -10,7 +10,7 @@ My work is focused on transforming complex ideas into clear, structured, impleme
 - Custom LLM project design
 - Web architecture and development
 - Complex systems design
-- Web3 and decentralized ecosystems
+- Web3, blockchain-based applications, utility token design, NFTs, and decentralized ecosystems
 - Strategic writing, publishing and documentation
 - UX/UI analysis and digital positioning
 
