@@ -37,6 +37,16 @@ It is a curated technical and strategic portfolio designed to show:
 
 ## Contact
 
-Website: https://lucacaristina.online  
+Website: https://mywebatelier.online  
 AI Leaks: https://aileaks.it  
 LinkedIn: https://www.linkedin.com/in/luca-caristina
+
+## License and Use
+
+This repository is a public professional portfolio.
+
+All original content is © 2026 Luca Caristina. All rights reserved.
+
+This is not an open-source repository. No permission is granted to copy, reproduce, redistribute, commercialize, or reuse the original material without prior written authorization.
+
+See [LICENSE.md](./LICENSE.md) and [NOTICE.md](./NOTICE.md).

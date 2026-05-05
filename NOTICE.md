@@ -1,9 +1,13 @@
 # Notice
 
-This repository is a public professional portfolio.
+This repository is a public portfolio, not an open-source project.
 
-All original texts, project descriptions, concepts, structures and documentation are © 2026 Luca Caristina. All rights reserved.
+All original content is © 2026 Luca Caristina. All rights reserved.
 
-No permission is granted to copy, reproduce, redistribute, sublicense, sell, or reuse the original material for commercial purposes without written authorization.
+The material published here may be read for professional evaluation, collaboration inquiries, and portfolio review only.
 
-This repository is intended for evaluation, professional positioning and collaboration inquiries only.
+You may not copy, reuse, redistribute, commercialize, adapt, scrape, or reproduce the texts, structures, project descriptions, service descriptions, positioning language, or conceptual frameworks without prior written authorization.
+
+This repository does not grant any license to use Luca Caristina’s professional material, project concepts, strategic documentation, business positioning, or original written content.
+
+For collaboration or authorized use, please contact Luca Caristina directly.
